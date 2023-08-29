@@ -1,6 +1,6 @@
 public class newnewbranch {
     public static void main(String[] args) {
-        int x = 5;
+        int x = 3;
         System.out.println(x);
     }
 }
