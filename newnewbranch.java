@@ -5,6 +5,9 @@ public class newnewbranch {
 
         int y = 23;
         int z = 23;
+        int sdawd = 3;
+        String hi = "hello world";
+        System.out.println("hi");
 
     }
 }
